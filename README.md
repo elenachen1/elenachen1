@@ -9,11 +9,14 @@
 - 📚 I'm learning new languages
 
 ### Languages and Tools
-C
-C#
-C++
-VisualStudioCode
-QT
+<div>
+  <img src="icon/c-original.svg">
+   <img src="icon/cplusplus-original.svg">
+   <img src="icon/icon/csharp-original.svg">
+   <img src="icon/icon/qt-original.svg">
+   <img src="icon/icon/ros-original.svg">
+   <img src="icon/icon/vscode-original.svg">
+</div>
 
 ### Follow Me
 [VK](https://vk.com/jrifkavgrgz)
