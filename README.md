@@ -10,12 +10,12 @@
 
 ### Languages and Tools
 <div>
-  <img src="icon/c-original.svg">
-   <img src="icon/cplusplus-original.svg">
-   <img src="icon/icon/csharp-original.svg">
-   <img src="icon/icon/qt-original.svg">
-   <img src="icon/icon/ros-original.svg">
-   <img src="icon/icon/vscode-original.svg">
+  <img src="icon/c-original.svg" width="40" height="40"/>&nbsp;
+   <img src="icon/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+   <img src="icon/csharp-original.svg" width="40" height="40"/>&nbsp;
+   <img src="icon/qt-original.svg" width="40" height="40"/>&nbsp;
+   <img src="icon/ros-original.svg" width="40" height="40"/>&nbsp;
+   <img src="icon/vscode-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
 ### Follow Me
