@@ -1,16 +1,16 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vlad)](https://git.io/typing-svg)
+### Hi there 👋, I'm Lena 
 
-<!--
-**elenachen1/elenachen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a student
+- 💻 I love programming
+- 📚 I'm learning new languages
 
-Here are some ideas to get you started:
+### Languages and Tools
+C
+C#
+C++
+VisualStudioCode
+QT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me
+[VK](https://vk.com/jrifkavgrgz)
